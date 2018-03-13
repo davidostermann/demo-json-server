@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmadou"
+    },
+    {
+      "id": 2,
+      "name": "Lucien"
+    },
+    {
+      "id": 3,
+      "name": "Linda"
+    },
+    {
+      "name": "Nicolas",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "VueJS c'est bien",
+      "userId": "3"
+    },
+    {
+      "id": 2,
+      "title": "Angular c'est nul",
+      "userId": "3"
+    },
+    {
+      "id": 3,
+      "title": "React c'est bien",
+      "userId": "2"
+    },
+    {
+      "title": "I love Angular",
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "title": "I love RxJS",
+      "userId": 4,
+      "id": 5
+    }
+  ]
+}
